@@ -1,5 +1,6 @@
 # HealthCare-monitoring-system
-Using esp32 board and some sensors
+Using esp32 board and some sensors 
+  ### More details are on the presentation 
 
 
 
